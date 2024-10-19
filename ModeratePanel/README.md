@@ -38,4 +38,17 @@ For example:<br>
   <img src="https://github.com/DenielDevv/discord-bot-mini-codes/blob/main/ModeratePanel/img/8.png" width="300"/>
 <br>
   <img src="https://github.com/DenielDevv/discord-bot-mini-codes/blob/main/ModeratePanel/img/9.png" width="300"/>
+  <br>
+  <p>
+I didn't show you. <br>
+But if you look at the code. <br>
+Then you'll see that the error has been handled.<br>
+If any errors or questions do arise. Then search with confidence.<br>
+  </p>
+  <br>
+  ## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1040574642005495818)
+  <br>
+  ## 💰 You can help me by Donating
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/WMDevOFF?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) 
 </div>
