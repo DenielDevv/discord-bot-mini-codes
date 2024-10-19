@@ -21,6 +21,16 @@ Which you can:<br>
   <img src="https://github.com/DenielDevv/discord-bot-mini-codes/blob/main/ModeratePanel/img/5.png" width="300"/>
 <br>
   <h3>These images are from the "/unmoderate" command.</h3>
+  <br>
+  <p>
+This command unblocks the moderations imposed by the preceding panel. <br>
+For example:<br>
+- in<br>
+- timeout<br>
+- Voice Mute<br>
+- Voice Mute<br>
+(Only the buttons that the user has moderated will appear under the embed. If banned. Then only the Unban button will be there. If you only received voicemute and voicedeafening. Then only those buttons will be there.)
+  </p>
   <img src="https://github.com/DenielDevv/discord-bot-mini-codes/blob/main/ModeratePanel/img/6.png" width="300"/>
 <br>
   <img src="https://github.com/DenielDevv/discord-bot-mini-codes/blob/main/ModeratePanel/img/7.png" width="300"/>
