@@ -10,6 +10,7 @@
 <br>
   <img src="https://github.com/DenielDevv/discord-bot-mini-codes/blob/main/ModeratePanel/img/5.png" width="300"/>
 <br>
+  <h3>These images are from the "/unmoderate" command.</h3>
   <img src="https://github.com/DenielDevv/discord-bot-mini-codes/blob/main/ModeratePanel/img/6.png" width="300"/>
 <br>
   <img src="https://github.com/DenielDevv/discord-bot-mini-codes/blob/main/ModeratePanel/img/7.png" width="300"/>
