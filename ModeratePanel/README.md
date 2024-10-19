@@ -47,8 +47,8 @@ If any errors or questions do arise. Then search with confidence.<br>
   </p>
   <br>
   🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]
+[[Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]
   <br>
   💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)] 
+  [[Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)] 
 </div>
