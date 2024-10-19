@@ -44,11 +44,10 @@ I didn't show you. <br>
 But if you look at the code. <br>
 Then you'll see that the error has been handled.<br>
 If any errors or questions do arise. Then search with confidence.<br>
+You can find my discord contact information on my profile. 🌐<br>
+<br>
+If you would support me in my work. 💰<br>
+In that case, you can also do so on my profile. 🌐<br>
+Thank you very much if you support me. 🥰<br>
 </p>
-<br>
-🌐 Socials:
-[[Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]
-<br>
-💰 You can help me by Donating
-[[Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)] 
 </div>
